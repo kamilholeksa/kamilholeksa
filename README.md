@@ -7,18 +7,17 @@
 [![Gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:kamil.holeksa.1@gmail.com)
 
 ### Tech Stack:
-[![Tech Stack](https://skillicons.dev/icons?i=java,spring,hibernate,postgres,angular,ts,js,html,css,git,postman,docker,maven,idea&theme=light)](https://skillicons.dev)
-<!--
-**kamilholeksa/kamilholeksa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com)
+[![Spring](https://skillicons.dev/icons?i=spring&theme=light)](https://spring.io)
+[![Hibernate](https://skillicons.dev/icons?i=hibernate&theme=light)](https://hibernate.org)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=light)](https://www.postgresql.org)
+[![Angular](https://skillicons.dev/icons?i=angular&theme=light)](https://angular.io)
+[![TypeScript](https://skillicons.dev/icons?i=ts&theme=light)](https://www.typescriptlang.org)
+[![JavaScript](https://skillicons.dev/icons?i=js&theme=light)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML](https://skillicons.dev/icons?i=html&theme=light)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css&theme=light)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Git](https://skillicons.dev/icons?i=git&theme=light)](https://git-scm.com)
+[![Postman](https://skillicons.dev/icons?i=postman&theme=light)](https://www.postman.com)
+[![Docker](https://skillicons.dev/icons?i=docker&theme=light)](https://www.docker.com)
+[![Maven](https://skillicons.dev/icons?i=maven&theme=light)](https://maven.apache.org)
+[![IntelliJ IDEA](https://skillicons.dev/icons?i=idea&theme=light)](https://www.jetbrains.com/idea)
