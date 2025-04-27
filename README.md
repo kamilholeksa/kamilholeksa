@@ -1,5 +1,13 @@
-## Hi there 👋
+<h2 align="center">Kamil Holeksa</h2>
 
+<h3 align="center">Junior Java Developer | Engineer in Computer Science</h3>
+
+### Connect with me:
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://pl.linkedin.com/in/kamil-holeksa)
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:kamil.holeksa.1@gmail.com)
+
+### Tech Stack:
+[![Tech Stack](https://skillicons.dev/icons?i=java,spring,hibernate,postgres,angular,ts,js,html,css,git,postman,docker,maven,idea&theme=light)](https://skillicons.dev)
 <!--
 **kamilholeksa/kamilholeksa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
